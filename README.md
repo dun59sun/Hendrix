@@ -201,4 +201,4 @@ This repository serves as the official landing page for Hendrix. The software is
 **Get the most recent version of Hendrix today!**
 
 ---
-**Last updated:** 2026-11-08 14:01:12 UTC
+**Last updated:** 2026-11-08 19:17:37 UTC
